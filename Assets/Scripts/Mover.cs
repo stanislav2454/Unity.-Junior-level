@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Move : MonoBehaviour
+public class Mover : MonoBehaviour
 {
     [SerializeField] private Vector3 _speed;
 
